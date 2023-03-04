@@ -1,89 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Page Not Found</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-    }
-    body {
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
-      text-align: center;
-    }
-    .box {
-      flex: 1;
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-    }
-    .number {
-      font-size: 80px;
-      color: #666;
-      font-weight: bold;
-    }
-    .text {
-      font-size: 14px;
-      margin: 24px;
-      color: #333;
-    }
-    .btn-container {
-      display: flex;
-      justify-content: center;
-    }
-    .btn {
-      padding: 8px 24px;
-      display: inline-block;
-      text-decoration: none;
-      background: #fff;
-      border: 2px solid #efefef;
-      color: #333;
-      margin: 24px;
-      border-radius: 20px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-    }
-    .footer {
-      padding: 16px;
-      border-top: 1px solid #efefef;
-      color: #777;
-      font-weight: lighter;
-    }
-    .footer a {
-      text-decoration: none;
-      font-weight: bold;
-      color: #000;
-    }
-  </style>
-</head>
-<body>
-  <div class="box">
-    <div class="number">4 0 4</div>
-    <div class="text">
-      Page not found
-    </div>
-    <div class="btn-container">
-      <a class="btn" id="back">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="margin-right: 8px;">
-          <path fill="none" d="M0 0h24v24H0z"/>
-          <path d="M5.828 7l2.536 2.536L6.95 10.95 2 6l4.95-4.95 1.414 1.414L5.828 5H13a8 8 0 1 1 0 16H4v-2h9a6 6 0 1 0 0-12H5.828z"/>
-        </svg>
-        Back
-      </a>
-    </div>
-  </div>
-  <footer class="footer">
-    Powered by <a href="https://gridea.dev" target="_blank">Gridea</a>
-  </footer>
-  <script>
-    var back = document.getElementById('back')
-    back.onclick = function() { console.log('run...'); history.back() }
-  </script>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Error 404 - 有氪</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://c-no1.github.io/feed.xml"><link rel="alternate" type="application/json" href="https://c-no1.github.io/feed.json"><meta property="og:title" content="有氪"><meta property="og:site_name" content="有氪"><meta property="og:description" content=""><meta property="og:url" content="https://c-no1.github.io/"><meta property="og:type" content="website"><link rel="stylesheet" href="https://c-no1.github.io/assets/css/style.css?v=3532e13fd0b9096d454aec3a49aa703f"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"有氪","url":"https://c-no1.github.io/"}</script></head><body class="lines"><div class="container lines lines--right"><header class="header"><a href="https://c-no1.github.io/" class="logo">有氪</a></header><main class="main page page--error"><div class="hero hero--centered"><h1 class="page--error__title">404</h1><p>The page you were looking for appears to have been moved, deleted or does not exist. You could go back to where you were or head straight to our home page.</p><p class="page--error__btn"><a href="https://c-no1.github.io/" class="btn">Go Home</a></p></div></main><footer class="footer"><div class="footer__left"><div class="footer__copy">Powered by Publii</div></div><button onclick="backToTopFunction()" id="backToTop" class="footer__bttop" aria-label="Back to top" title="Back to top"><svg><use xlink:href="https://c-no1.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script>window.publiiThemeMenuConfig = { mobileMenuMode: 'sidebar', animationSpeed: 300, submenuWidth: 'auto', doubleClickTime: 500, mobileMenuExpandableSubmenus: true, relatedContainerForOverlayMenuSelector: '.navbar', };</script><script defer="defer" src="https://c-no1.github.io/assets/js/scripts.min.js?v=8190bbfcf662a6d5bf1ad35d88ad1ec9"></script><script>function publiiDetectLoadedImages () {
+         var images = document.querySelectorAll('img[loading]:not(.is-loaded)');
+         for (var i = 0; i < images.length; i++) {
+            if (images[i].complete) {
+               images[i].classList.add('is-loaded');
+               images[i].parentNode.classList.remove('is-img-loading');
+            } else {
+               images[i].addEventListener('load', function () {
+                  this.classList.add('is-loaded');
+                  this.parentNode.classList.remove('is-img-loading');
+               }, false);
+            }
+         }
+      }
+      publiiDetectLoadedImages();</script></body></html>
