@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-03-30T10:35:46+08:00</updated>
+    <updated>2023-03-30T10:57:41+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://c-no1.github.io/midjourneyhui-hua-lian-xi-ji-lu/"/>
         <id>https://c-no1.github.io/midjourneyhui-hua-lian-xi-ji-lu/</id>
         <media:content url="https://c-no1.github.io/media/posts/5/01f7725fc4492f11013ee04d69b9c8.webp" medium="image" />
+            <category term="我的设计日常记录"/>
 
-        <updated>2023-03-30T10:35:46+08:00</updated>
+        <updated>2023-03-30T10:57:28+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/5/01f7725fc4492f11013ee04d69b9c8.webp" alt="" />
@@ -156,8 +157,9 @@
         <link href="https://c-no1.github.io/di-er-pian/"/>
         <id>https://c-no1.github.io/di-er-pian/</id>
         <media:content url="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" medium="image" />
+            <category term="我的设计日常记录"/>
 
-        <updated>2023-03-29T15:50:04+08:00</updated>
+        <updated>2023-03-30T10:57:41+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" alt="" />
