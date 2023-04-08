@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-04-08T10:49:12+08:00</updated>
+    <updated>2023-04-08T10:59:20+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -281,8 +281,9 @@
         <link href="https://c-no1.github.io/she-ji-ruan-jian/"/>
         <id>https://c-no1.github.io/she-ji-ruan-jian/</id>
         <media:content url="https://c-no1.github.io/media/posts/6/09db4400d50a43a8f7b9497b99cb5825.jpg" medium="image" />
+            <category term="#设计工具"/>
 
-        <updated>2023-03-31T11:05:17+08:00</updated>
+        <updated>2023-04-08T10:58:35+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -510,9 +511,9 @@
         <link href="https://c-no1.github.io/di-er-pian/"/>
         <id>https://c-no1.github.io/di-er-pian/</id>
         <media:content url="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" medium="image" />
-            <category term="#Midjourney绘画"/>
+            <category term="#C4D作品"/>
 
-        <updated>2023-04-07T17:43:30+08:00</updated>
+        <updated>2023-04-08T10:58:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" alt="" />
@@ -577,8 +578,10 @@
         </author>
         <link href="https://c-no1.github.io/di-yi-pian-wen-zhang/"/>
         <id>https://c-no1.github.io/di-yi-pian-wen-zhang/</id>
+            <category term="#设计工具"/>
+            <category term="#设计分享"/>
 
-        <updated>2023-03-30T12:16:42+08:00</updated>
+        <updated>2023-04-08T10:59:20+08:00</updated>
             <summary>
                 <![CDATA[
                     <div>三维设计是一个非常庞大的领域，包含了很多细分方向，各个专业方向有非常多的软件可供选择，不同软件的发展速度也日新月异。</div>
