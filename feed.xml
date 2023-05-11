@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-11T09:52:47+08:00</updated>
+    <updated>2023-05-11T10:16:41+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -113,10 +113,10 @@
         <link href="https://c-no1.github.io/ce-shi-4/"/>
         <id>https://c-no1.github.io/ce-shi-4/</id>
 
-        <updated>2023-05-11T09:52:33+08:00</updated>
+        <updated>2023-05-11T10:16:41+08:00</updated>
             <summary>
                 <![CDATA[
-                    .card { width: 200px; height: 400px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; display: inline-block; margin: 10px; overflow: hidden; position:&hellip;
+                    .card { width: 200px; height: 400px; background-color: rgba(255, 255, 255, 1); border-radius: 10px; display: inline-block; margin: 10px; overflow: hidden; position:&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -125,7 +125,7 @@
 .card {
         width: 200px;
         height: 400px;
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 1);
         border-radius: 10px;
         display: inline-block;
         margin: 10px;
@@ -141,7 +141,7 @@
 }
 
 .card:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 8px rgba(214,214,225,0.4);
         transform: scale(1.05);
 }
 </style>
@@ -166,7 +166,7 @@
   <img decoding="async" loading="lazy" src="https://via.placeholder.com/200x125.png" alt="placeholder image" data-is-external-image="true">
   <div class="card-content">
     <h3>大标题</h3>
-    <p>这是正文，这是正文，</p>
+    <p>https://frozenland.cc/teleprompter.html</p>
   </div>
 </div>
 
