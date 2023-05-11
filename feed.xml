@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-11T10:16:41+08:00</updated>
+    <updated>2023-05-11T10:27:10+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -113,7 +113,7 @@
         <link href="https://c-no1.github.io/ce-shi-4/"/>
         <id>https://c-no1.github.io/ce-shi-4/</id>
 
-        <updated>2023-05-11T10:16:41+08:00</updated>
+        <updated>2023-05-11T10:27:10+08:00</updated>
             <summary>
                 <![CDATA[
                     .card { width: 200px; height: 400px; background-color: rgba(255, 255, 255, 1); border-radius: 10px; display: inline-block; margin: 10px; overflow: hidden; position:&hellip;
@@ -167,6 +167,8 @@
   <div class="card-content">
     <h3>大标题</h3>
     <p>https://frozenland.cc/teleprompter.html</p>
+         <div class="card-link">
+    <h3>https://frozenland.cc/teleprompter.html</h3>
   </div>
 </div>
 
