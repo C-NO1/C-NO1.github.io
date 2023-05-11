@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-11T14:22:23+08:00</updated>
+    <updated>2023-05-11T14:32:57+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -418,7 +418,7 @@
         <link href="https://c-no1.github.io/ce-shi-4/"/>
         <id>https://c-no1.github.io/ce-shi-4/</id>
 
-        <updated>2023-05-11T14:22:23+08:00</updated>
+        <updated>2023-05-11T14:32:57+08:00</updated>
             <summary>
                 <![CDATA[
                     .card { border: 1px solid #ccc; width: 250px; height: 400px; background-color: rgba(255, 255, 255, 1); border-radius: 10px; display: inline-block; margin:&hellip;
@@ -457,30 +457,20 @@
   height: 6px;
     background-color: rgba(255, 255, 255, 1);
 }
+    
+.article {
+  max-height: 30px;
+  overflow: hidden;
+}
+
 </style>
 
 <div class="card">
-  <img decoding="async" loading="lazy" src="https://via.placeholder.com/200x125.png" alt="placeholder image" data-is-external-image="true">
+      <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rWYfx.png" alt="placeholder image" data-is-external-image="true">
   <div class="card-content">
-    <h3>大标题</h3>
-    <p>这是正文，这是正文，</p>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://via.placeholder.com/200x125.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h3>大标题</h3>
-    <p>这是正文，这是正文，</p>
-  </div>
-</div>
-
-<div class="card">
-      <img decoding="async" loading="lazy" src="https://imgse.com/i/p9rWYfx" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h3>大标题</h3>
-        <p>正文段落</p>
-        <a href="https://convert.leiapix.com/"><button>点击进入</button></a>
+    <h4>AI辅助网站</h4>
+        <p>能让图片通过空间位移动起来的网站</p>
+        <a href="https://convert.leiapix.com/"><br><button>点击进入</button></a>
   </div>
 </div>
 
