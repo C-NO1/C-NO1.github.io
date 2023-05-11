@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-11T15:34:57+08:00</updated>
+    <updated>2023-05-11T15:42:33+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -113,7 +113,7 @@
         <link href="https://c-no1.github.io/ce-shi-4/"/>
         <id>https://c-no1.github.io/ce-shi-4/</id>
 
-        <updated>2023-05-11T15:34:57+08:00</updated>
+        <updated>2023-05-11T15:42:33+08:00</updated>
             <summary>
                 <![CDATA[
                     .card { border: 1px solid #ccc; width: 250px; height: 400px; background-color: rgba(255, 255, 255, 1); border-radius: 10px; display: inline-block; margin:&hellip;
@@ -178,7 +178,7 @@
   <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rXNOs.png" alt="placeholder image" data-is-external-image="true">
   <div class="card-content">
     <h5>Midjourney灵感库</h5>
-    <p>选择你感兴趣的图，里面有相应的词条</p>
+    <p>选择你感兴趣的图里面有相应的词条</p>
         <a href="https://www.midlibrary.io/"><br><button>点击进入</button></a>
   </div>
 </div>
@@ -193,10 +193,11 @@
 </div>
 
 <div class="card">
-  <img decoding="async" loading="lazy" src="https://via.placeholder.com/200x125.png" alt="placeholder image" data-is-external-image="true">
+  <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9spf7d.png" alt="placeholder image" data-is-external-image="true">
   <div class="card-content">
-    <h3>Card Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <h3>Midjourney灵感库</h3>
+    <p>Midjourney官方艺术画廊可复制提示词</p>
+        <a href="https://www.midjourney.com/app/feed/"><br><button>点击进入</button></a>
   </div>
 </div>
 
