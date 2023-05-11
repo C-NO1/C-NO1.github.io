@@ -3,149 +3,12 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-11T16:20:44+08:00</updated>
+    <updated>2023-05-11T15:55:18+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
     <id>https://c-no1.github.io</id>
 
-    <entry>
-        <title>目录测试</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/yokr/"/>
-        <id>https://c-no1.github.io/yokr/</id>
-
-        <updated>2023-05-11T16:20:44+08:00</updated>
-            <summary>
-                <![CDATA[
-                    Website Title /* Styles for the directory sidebar */ .sidebar { position: fixed; top: 0; left: 0; width: 200px; height:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Website Title</title>
-    <style>
-      /* Styles for the directory sidebar */
-      .sidebar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 200px;
-        height: 100%;
-        padding: 10px;
-        background-color: #f1f1f1;
-        overflow-y: scroll;
-      }
-      .sidebar ul {
-        list-style-type: none;
-        padding: 0;
-      }
-      .sidebar ul li {
-        margin: 5px 0;
-        font-size: 14px;
-      }
-      .sidebar ul li a {
-        color: #000;
-        text-decoration: none;
-      }
-      .sidebar ul li a:hover {
-        text-decoration: underline;
-      }
-    </style>
-  </head>
-  <body>
-    <!-- Directory sidebar function -->
-    <script>
-      function createDirectorySidebar() {
-        var directory = {
-          "Section 1": [
-            "Subsection 1.1",
-            "Subsection 1.2",
-            "Subsection 1.3"
-          ],
-          "Section 2": [
-            "Subsection 2.1",
-            "Subsection 2.2",
-            "Subsection 2.3"
-          ],
-          "Section 3": [
-            "Subsection 3.1",
-            "Subsection 3.2",
-            "Subsection 3.3"
-          ]
-        };
-
-<pre><code>    var sidebar = document.createElement(&quot;div&quot;);
-    sidebar.setAttribute(&quot;class&quot;, &quot;sidebar&quot;);
-
-    var ul = document.createElement(&quot;ul&quot;);
-
-    for (var section in directory) {
-      var li = document.createElement(&quot;li&quot;);
-      var a = document.createElement(&quot;a&quot;);
-      a.setAttribute(&quot;href&quot;, &quot;#&quot; + section.replace(/ /g, &quot;-&quot;).toLowerCase());
-      a.textContent = section;
-      li.appendChild(a);
-
-      if (directory[section].length &gt; 0) {
-        var subul = document.createElement(&quot;ul&quot;);
-
-        for (var i = 0; i &lt; directory[section].length; i++) {
-          var subli = document.createElement(&quot;li&quot;);
-          var suba = document.createElement(&quot;a&quot;);
-          suba.setAttribute(&quot;href&quot;, &quot;#&quot; + directory[section][i].replace(/ /g, &quot;-&quot;).toLowerCase());
-          suba.textContent = directory[section][i];
-          subli.appendChild(suba);
-          subul.appendChild(subli);
-        }
-
-        li.appendChild(subul);
-      }
-
-      ul.appendChild(li);
-    }
-
-    sidebar.appendChild(ul);
-    document.body.appendChild(sidebar);
-  }
-
-  // Call the function to create the directory sidebar
-  createDirectorySidebar();
-&lt;/script&gt;
-
-&lt;!-- Main content --&gt;
-&lt;article&gt;
-  &lt;h1&gt;Website Title&lt;/h1&gt;
-
-  &lt;section id=&quot;section1&quot;&gt;
-    &lt;h2&gt;Section 1&lt;/h2&gt;
-    &lt;p&gt;Here is some text for section 1.&lt;/p&gt;
-  &lt;/section&gt;
-
-  &lt;section id=&quot;subsection-1-1&quot;&gt;
-    &lt;h3&gt;Subsection 1.1&lt;/h3&gt;
-    &lt;p&gt;Here is some text for subsection 1.1.&lt;/p&gt;
-  &lt;/section&gt;
-
-  &lt;section id=&quot;subsection-1-2&quot;&gt;
-    &lt;h3&gt;Subsection 1.2&lt;/h3&gt;
-    &lt;p&gt;Here is some text for subsection 1.2.&lt;/p&gt;
-  &lt;/section&gt;
-
-  &lt;section id=&quot;subsection-1-3&quot;&gt;
-    &lt;h3&gt;Subsection 1.3&lt;/h
-                
-</code></pre>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Midjourney IP角色</title>
         <author>
@@ -243,113 +106,6 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/16/gallery/xhmz2_First-person_perspective_top_view_fisheye_lens_1_man_in_w_659dbb21-dcb5-40ce-bbcd-70b8fb60ee25.png" data-size="768x1536"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/16/gallery/xhmz2_First-person_perspective_top_view_fisheye_lens_1_man_in_w_659dbb21-dcb5-40ce-bbcd-70b8fb60ee25-thumbnail.png" alt="" width="768" height="1536"></a></figure>
 </div></div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>测试4</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/ce-shi-4/"/>
-        <id>https://c-no1.github.io/ce-shi-4/</id>
-
-        <updated>2023-05-11T15:42:33+08:00</updated>
-            <summary>
-                <![CDATA[
-                    .card { border: 1px solid #ccc; width: 250px; height: 400px; background-color: rgba(255, 255, 255, 1); border-radius: 10px; display: inline-block; margin:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <style>
-.card {
-          border: 1px solid #ccc;
-        width: 250px;
-        height: 400px;
-        background-color: rgba(255, 255, 255, 1);
-        border-radius: 10px;
-        display: inline-block;
-        margin: 10px; 
-          text-align: center;
-        overflow: hidden;
-        position: relative;
-        transition: all 0.2s ease-in-out;
-        overflow: hidden;
-}
-
-.card img {
-  width: 100%;
-  height: auto;
-  object-fit: 10px;
-}
-
-.card:hover {
-  box-shadow: 0 4px 16px rgba(214,214,225,1);
-        transform: scale(1.05);
-}
-
-.card:button {
-    width: 10px;
-  height: 6px;
-    background-color: rgba(255, 255, 255, 1);
-}
-
-</style>
-
-<div class="card">
-      <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rWYfx.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h5>AI辅助网站</h5>
-        <p>能让图片通过空间位移动起来的程序页</p>
-        <a href="https://convert.leiapix.com/"><br><button>点击进入</button></a>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rqX7V.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h5>Midjourney提词器</h5>
-    <p>国产支持中文输入的提示词生成器的程序页</p>
-        <a href="https://frozenland.cc/teleprompter.html"><br><button>点击进入</button></a>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rXNOs.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h5>Midjourney灵感库</h5>
-    <p>选择你感兴趣的图里面有相应的词条</p>
-        <a href="https://www.midlibrary.io/"><br><button>点击进入</button></a>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9sSF2T.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h5>人工智能社区</h5>
-    <p>训练和部署由机器学习中的参考开源支持的最先进模型</p>
-        <a href="https://huggingface.co/"><br><button>点击进入</button></a>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9spf7d.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h3>Midjourney灵感库</h3>
-    <p>Midjourney官方艺术画廊可复制提示词</p>
-        <a href="https://www.midjourney.com/app/feed/"><br><button>点击进入</button></a>
-  </div>
-</div>
-
-<div class="card">
-  <img decoding="async" loading="lazy" src="https://via.placeholder.com/200x125.png" alt="placeholder image" data-is-external-image="true">
-  <div class="card-content">
-    <h3>Card Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  </div>
-</div>
-
             ]]>
         </content>
     </entry>
@@ -831,6 +587,98 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_a_painting_showing_two_cat_baby_with_Tulips_flowers_in_th_dfb151f5-b89e-4b6b-b7b7-66d73352e513.png" data-size="896x1344"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_a_painting_showing_two_cat_baby_with_Tulips_flowers_in_th_dfb151f5-b89e-4b6b-b7b7-66d73352e513-thumbnail.png" alt="" width="768" height="1152"></a></figure>
 </div></div>
 <p> </p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello Yokr</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/di-san-pian/"/>
+        <id>https://c-no1.github.io/di-san-pian/</id>
+        <media:content url="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" medium="image" />
+
+        <updated>2023-05-11T09:48:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" alt="" />
+                    <div>
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" class="type:primaryImage" alt="" /></p>
+                <div>正如原研哉所说：“设计源于社会。设计的实质在于发现一个很多人都遇到的问题，然后试着去解决的过程。由于问题的根源在社会内部，除了能从设计师的视角看问题外，每个人都能理解解决问题的方案合过程。设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣”。</div>
+<div>品牌是一个名称、符号、形象乃至一整套与消费者沟通的全方位的系统性传播架构，其根本目的是在目标消费群体的认知中构建品牌信念，从而建立品牌知名度与消费者的忠诚度。</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>C4D 产品渲染</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/di-er-pian/"/>
+        <id>https://c-no1.github.io/di-er-pian/</id>
+        <media:content url="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" medium="image" />
+            <category term="#C4D作品"/>
+
+        <updated>2023-04-08T10:58:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" alt="" />
+                    <div>
+<div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" class="type:primaryImage" alt="" /></p>
+                <div>
+<div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+<h3>P1 指尖血氧仪渲染</h3>
+<div>
+<h5>使用工具：</h5>
+<div>
+<div>CINEMA 4D R25</div>
+<div>OCTANE R4</div>
+<div>After_Effects_2022</div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000.png" data-size="2564x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000-thumbnail.png" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
+</div></div>
+</div>
+<div>
+<h3>P2 注射器渲染</h3>
+<div>
+<h5>使用工具:</h5>
+<div>
+<div>CINEMA 4D R25</div>
+<div>OCTANE R4</div>
+<div>After_Effects_2022</div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="4">
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-2_00000_00000.png" data-size="1440x2560"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-2_00000_00000-thumbnail.png" alt="" width="768" height="1365"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-4_00000_00000_00000_00000_00000-2.png" data-size="1440x2560"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-4_00000_00000_00000_00000_00000-2-thumbnail.png" alt="" width="768" height="1365"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-1_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-1_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
             ]]>
