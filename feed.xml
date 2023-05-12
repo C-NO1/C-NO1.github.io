@@ -3,12 +3,112 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-12T10:15:09+08:00</updated>
+    <updated>2023-05-12T17:14:30+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
     <id>https://c-no1.github.io</id>
 
+    <entry>
+        <title>友链资源</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/ce-shi-11-2/"/>
+        <id>https://c-no1.github.io/ce-shi-11-2/</id>
+
+        <updated>2023-05-12T17:14:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    .card-container { display: flex; flex-wrap: wrap; justify-content: center; } .card { margin: 10px; flex-basis: calc(30% - 20px); background-color: rgba(255, 255,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <style>
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .card {
+      margin: 10px;
+    flex-basis: calc(30% - 20px);
+        background-color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: 420px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+    overflow: hidden;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+  .card:hover {
+    box-shadow: 0 4px 16px rgba(214,214,225,1);
+    transform: scale(1.05);
+  }
+    
+  .card button {
+    width: 100%;
+        width: 150px;
+    height: 50px;
+    background-color: rgba(255, 58, 66, 1);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+
+</style>
+
+<div class="card-container">
+  <div class="card">
+    <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rWYfx.png" alt="placeholder image" data-is-external-image="true">
+    <div class="card-content">
+      <h5>AI辅助网站</h5>
+      <p>能让图片通过空间位移动起来的程序页</p>
+      <a href="https://convert.leiapix.com/"><br><button>点击进入</button></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rqX7V.png" alt="placeholder image" data-is-external-image="true">
+    <div class="card-content">
+      <h5>Midjourney提词器</h5>
+      <p>国产支持中文输入的提示词生成器的程序页</p>
+      <a href="https://frozenland.cc/teleprompter.html"><br><button>点击进入</button></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9rXNOs.png" alt="placeholder image" data-is-external-image="true">
+    <div class="card-content">
+      <h5>Midjourney灵感库</h5>
+      <p>选择你感兴趣的图里面有相应的词条</p>
+      <a href="https://www.midlibrary.io/"><br><button>点击进入</button></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/11/p9sSF2T.png" alt="placeholder image" data-is-external-image="true">
+    <div class="card-content">
+      <h5>人工智能社区</h5>
+      <p>训练和部署由机器学习中的参考开源支持的最先进模型</p>
+      <a href="https://huggingface.co/"><br><button>点击进入</button></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img decoding="async" loading="lazy" src="https://s1.ax1x.com/2023/05/
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Midjourney IP角色</title>
         <author>
@@ -31,7 +131,7 @@
                     <p><img src="https://c-no1.github.io/media/posts/17/xhmz2_At_night_in_the_room_with_the_lamp_on_a_super_cute_girl_w_7bdb6b9f-bb00-47f4-9360-8b41377d8a17.png" class="type:primaryImage" alt="" /></p>
                 <div data-page-id="KHQBdqUe9oGub7xiQpYc7F6anOf" data-docx-has-block-data="false">
 <div><strong>迪士尼风格IP 👩</strong></div>
-<div><figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/17/Snipaste_2023-04-10_14-39-55.png" alt="" width="3347" height="763" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-xs.png 300w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-sm.png 480w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-md.png 768w"></figure></div>
+<div><figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/17/Snipaste_2023-04-10_14-39-55.png" alt="" width="3347" height="763" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-xs.png 384w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-sm.png 600w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-md.png 768w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-lg.png 1200w ,https://c-no1.github.io/media/posts/17/responsive/Snipaste_2023-04-10_14-39-55-xl.png 1600w"></figure></div>
 <div> </div>
 <div class="ace-line ace-line old-record-id-XqWkdaKcAoEkWex0MkycFawWnae"><strong>关键词</strong>：”<u>晚上在房间里用灯照着一个超级可爱的女孩戴着眼镜正在学习，模拟盲盒玩具迪士尼风格“</u></div>
 <div> </div>
@@ -82,7 +182,7 @@
             <![CDATA[
                     <p><img src="https://c-no1.github.io/media/posts/16/xhmz2_first_person_view_high_angle_view_fisheye_lens_1_man_in_w_8839ba7a-5ef3-4860-9ed0-91db45b394f3.png" class="type:primaryImage" alt="" /></p>
                 <p><strong>雕塑风格人物🦸‍♂️</strong></p>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/16/Snipaste_2023-05-11_15-50-09.png" alt="" width="3237" height="754" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-xs.png 300w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-sm.png 480w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/16/Snipaste_2023-05-11_15-50-09.png" alt="" width="3237" height="754" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-xs.png 384w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-sm.png 600w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-md.png 768w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-lg.png 1200w ,https://c-no1.github.io/media/posts/16/responsive/Snipaste_2023-05-11_15-50-09-xl.png 1600w"></figure>
 <p><strong>关键词：“</strong>超现实现实雕塑风格，精致的3D特征，黑色背景<strong>”</strong></p>
 <p><strong>全部咒语</strong>：first person view, high angle view, fisheye lens, 1 man in white baseball cap holding baseball bat, surreal sculptural style, delicate 3D features, fine skin texture, luminous pupils, close-up intensity, solo, black hair, male focus, looking at spectator, Akira toriyama, black background, realistic, short hair, sportswear, closed mouth, blue headdress, realistic details --ar 1:2 --niji 5 --q 2 --q 2 --s 400 --style expressive --c 1 --q 2 --s 250 --niji 5 --q 2 --s 750 --niji 5 --q 2 --s 750 --niji 5 --q 2 --s 750 --niji 5 --q 2 --s 750 --niji 5 --q 2 --s 750 --niji 5</p>
 <p><strong>译文：</strong>第一人称视角，高角度视图，鱼眼镜头，1名戴白色棒球帽的男子手持棒球棒，超现实的雕塑风格，精致的3D特征，精细的皮肤纹理，发光的瞳孔，特写强度，独奏，黑发，男性焦点，看着观众，Akira toriyama，黑色背景，现实，短发，运动服，闭口，蓝色头饰，现实的细节--ar 1:2 --niji 5 --q 2 --s 400 --style expressive --c 1</p>
@@ -132,7 +232,7 @@
                 <div> </div>
 <div></div>
 <h4>登山的小女孩</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/10/Snipaste_2023-03-30_10-23-15.png" alt="" width="3350" height="797" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-xs.png 300w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-sm.png 480w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/10/Snipaste_2023-03-30_10-23-15.png" alt="" width="3350" height="797" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-xs.png 384w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-sm.png 600w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-md.png 768w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-lg.png 1200w ,https://c-no1.github.io/media/posts/10/responsive/Snipaste_2023-03-30_10-23-15-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #3598db;">一个超级可爱的运动女孩正在爬山</span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，水汪汪的大眼睛，模拟盲盒玩具迪士尼风格</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>做盲盒一样的卡通IP，几个主要的关键点是：关键词里一定要“可爱”！！！两个字，然后就是风格“迪士尼风格、卡通人物、POP MART等”这些有代表性的描述。</p>
 <p>人物的动作和背景同样的是主体，可以进行概述，也可以进行详细描述，剩下的交给AI就行。</p>
@@ -178,7 +278,7 @@
 <li>雨天中双马尾女孩</li>
 </ol>
 <h4>一、卧室书桌</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/9/Snipaste_2023-04-08_09-39-39-2.png" alt="" width="3348" height="798" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-xs.png 300w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-sm.png 480w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/9/Snipaste_2023-04-08_09-39-39-2.png" alt="" width="3348" height="798" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-xs.png 384w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-sm.png 600w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-md.png 768w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-lg.png 1200w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_09-39-39-2-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">室内渲染，平板电脑在桌子上，现实的照明</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>写实最主要的讲究是光与阴的表达，还有画面结构的表达，主体是什么，以及环境是怎么样，最终由什么产出画面（风格）。</p>
 <p><strong>全部咒语：</strong>interior rendering, tablet on the table, realistic closeup, super realistic, clean background, bright tones, high detail, super texture, bright colors, fine gloss, OC effect, Maxon Cinema 4D, beautiful lighting, cinematic shots, epic details, dramatic contrasts, super quality, 8KHD.CGI, octane rendering, blender, extreme closeup, realistic Photos, best quality, top view</p>
@@ -195,7 +295,7 @@
 </div></div>
 <p>二、雨天中双马尾女孩</p>
 </div>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/9/Snipaste_2023-04-08_10-32-38.png" alt="" width="3349" height="762" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-xs.png 300w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-sm.png 480w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/9/Snipaste_2023-04-08_10-32-38.png" alt="" width="3349" height="762" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-xs.png 384w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-sm.png 600w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-md.png 768w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-lg.png 1200w ,https://c-no1.github.io/media/posts/9/responsive/Snipaste_2023-04-08_10-32-38-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline;"><span style="color: #3598db; text-decoration: underline;">城市雨天夜晚中的女孩</span></span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，蓝色的环境，精致的五官</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p><strong>全部咒语：</strong>Rainy day, city night, girl with double ponytail, brown hair and eyes, delicate features, real eyes, backlighting, symmetrical face, blue tones, real texture, octane render,HD 8K</p>
 <p><strong>译文：</strong>雨天，城市夜晚，双马尾女孩，棕色头发和眼睛，精致的五官，真实的眼睛，背光，对称的脸，蓝色调，真实的纹理，辛烷值渲染，HD 8K</p>
@@ -239,7 +339,7 @@
 </ol>
 </div>
 <h4>一、大疆无人机</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-03-30_09-54-37.png" alt="" width="3356" height="760" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-xs.png 300w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-sm.png 480w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-03-30_09-54-37.png" alt="" width="3356" height="760" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-xs.png 384w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-sm.png 600w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-md.png 768w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-lg.png 1200w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-03-30_09-54-37-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline;"><span style="color: #3598db; text-decoration: underline;">一架大疆无人机在清晨的森林中穿行</span></span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，大疆无人机，晨光</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>做产品概念图，需要明确产品的主体是什么，参考案例中，主体是“大疆无人机”，AI可准确生成品牌-产品，然后产品的动作或者角度，这样就有了画面大概的动态表达语言。</p>
 <p>最终，AI会对你的指令进行画面绘制，简单的指令可以做出很精确的画面表达。同样的，也可以试着更改产品，例如把大疆换为“穿着耐克鞋子的男人在树林中跑步”。</p>
@@ -257,7 +357,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/8/gallery/xhmz2_A_DJI_drone_travels_through_the_forest_in_the_early_morni_92c8bdab-ddfd-4702-bb44-2617a9349367.png" data-size="1024x1024"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/8/gallery/xhmz2_A_DJI_drone_travels_through_the_forest_in_the_early_morni_92c8bdab-ddfd-4702-bb44-2617a9349367-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
 <h4>二、娇兰香水风格图</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-04-08_09-46-45.png" alt="" width="3346" height="862" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-xs.png 300w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-sm.png 480w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-04-08_09-46-45.png" alt="" width="3346" height="862" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-xs.png 384w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-sm.png 600w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-md.png 768w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-lg.png 1200w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-46-45-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline;"><span style="color: #3598db; text-decoration: underline;">自然和技术之前的交叉</span></span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，照片写实，快门速度1/1000，疯狂的详细和复杂</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>风格图主要讲究画面角度与产品氛围的表达，产品的定位决定画面的档次，奢华、精致、细节等等主要关键词，最终需要添加很多摄影方面的词汇，实现真实的产品摄影风格图。</p>
 <p><strong>全部咒语：</strong>Cross-over between nature and technology, Photography, hyper realistic, photorealistic, Studio Lighting, reflections, dynamic pose, Cinematic, Color Grading, Shot on 50mm lens, Ultra-wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, insane details, intricate details, beautifully color graded, Unreal Engine, Editorial Photography, Photoshoot, Shot on 35mm lens, Depth of Field, DOF, Tilt Blur, Shutter Speed 1/1000, F/22, White Balance, 32k, Super-Resolution, Megapixel,  ProPhoto RGB, VR, Lonely, Good, Massive, Halfrear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Soft Lighting, Volumetric, Contre-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration,  GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose, 8k, bright lighting</p>
@@ -276,7 +376,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/8/gallery/xhmz2_Cross-over_between_nature_and_technology_Photography_hype_d9ff2b91-103b-4825-b2b0-819c9aad03cb.png" data-size="816x1456"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/8/gallery/xhmz2_Cross-over_between_nature_and_technology_Photography_hype_d9ff2b91-103b-4825-b2b0-819c9aad03cb-thumbnail.png" alt="" width="768" height="1370"></a></figure>
 </div></div>
 <h4>三、沐浴露产品表达</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-04-08_09-53-39.png" alt="" width="3351" height="757" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-xs.png 300w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-sm.png 480w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/8/Snipaste_2023-04-08_09-53-39.png" alt="" width="3351" height="757" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-xs.png 384w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-sm.png 600w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-md.png 768w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-lg.png 1200w ,https://c-no1.github.io/media/posts/8/responsive/Snipaste_2023-04-08_09-53-39-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #3598db;">超写实的场景渲染为特色</span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，沐浴露悬浮在半空中，周围环绕着触须般的花朵</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>风格图主要讲究画面角度与产品氛围的表达，确定画面主体：沐浴露在空中悬浮，需要充足的照明，最终需要添加很多摄影方面的词汇，实现真实的产品摄影风格图。</p>
 <p><strong>全部咒语：</strong>The image features a hyperrealistic scene rendering with body wash:: 5 suspended in mid-air and surrounded by tentacle-like floral arrangements.  the backdrop is a clean and solid color, with ample lighting that enhances the vividness of the imagery. the image was created using C4D software and includes OC and 8K features /setting</p>
@@ -325,7 +425,7 @@
 <li>奔驰 AMG</li>
 </ol>
 <h4>一、迈凯伦GT</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-04_14-33-20.png" alt="" width="3348" height="661" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-xs.png 300w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-sm.png 480w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-04_14-33-20.png" alt="" width="3348" height="661" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-xs.png 384w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-sm.png 600w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-md.png 768w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-lg.png 1200w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-04_14-33-20-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">体育摄影低角度图像，车型，摄像机角度</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>给AI指令生成一辆汽车不难，主要的重点是汽车在什么环境中，以及生成烟雾效果，需要明确给AI指令，比如：<span style="text-decoration: underline; color: #3598db;">造成巨大的运动模糊的烟幕</span>,这样会使画面中车轮后面会有一种烧胎起步造成烟雾的感觉。</p>
 <p><strong>全部咒语：</strong><span style="text-decoration: underline; color: #000000;">Sports photography low angle image: McLaren GT blue line headlight glow with body kit kicks in on an eastern US highway causing a huge motion blur smoke screen, color graded, edited Pho ultra wide angle, depth of field, DOF, tilt blur, shutter speed 1/1000, F/22, gamma, white balance, neon, light, dark, light mode, dark mode, high contrast, multiverse, super resolution, megapixel, ProPhoto RGB, lonely, good, massive, spotlight, half lighting, backlight, incandescent, fiber optic, moody lighting, film lighting, studio lighting, hypermaximalist, elegant, surreal, super detail, photography</span></p>
@@ -343,7 +443,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/7/gallery/xhmz2_Futuristic_technology_McLaren_supercar_on_racing_track_cl_bdfe2dc0-b7f9-4426-8e83-d2d4ad2c179d.png" data-size="1680x720"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/7/gallery/xhmz2_Futuristic_technology_McLaren_supercar_on_racing_track_cl_bdfe2dc0-b7f9-4426-8e83-d2d4ad2c179d-thumbnail.png" alt="" width="768" height="329"></a></figure>
 </div></div>
 <h4>二、<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">柯尼塞格 ONE 1</span></h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-07_17-12-13.png" alt="" width="3357" height="790" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xs.png 300w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-sm.png 480w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-md.png 768w"></figure>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">体育摄影低角度图像，车型，运动状态</span><span style="color: #000000; text-decoration: underline;">“</span></span></span><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">全部咒语：</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Sports photography low angle image: Koenigsegg agera blue line headlight glow with body kit kicks in on an eastern US highway causing a huge motion blur smoke screen,color grading, edit Pho ultra wide angle, depth of field, DOF, tilt blur, shutter speed 1/1000, F/22, gamma, white balance, neon, light, dark, light mode, dark mode high contrast, multiverse, super resolution, megapixels, ProPhoto RGB, lonely, good, massive, spotlight, half lighting, backlight, incandescent, fiber optic, moody lighting, film lighting, studio lighting, hypmaximalist, elegant, surreal, super detail, photography</span><br>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-07_17-12-13.png" alt="" width="3357" height="790" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xs.png 384w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-sm.png 600w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-md.png 768w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-lg.png 1200w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xl.png 1600w"></figure>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">体育摄影低角度图像，车型，运动状态</span><span style="color: #000000; text-decoration: underline;">“</span></span></span><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">全部咒语：</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Sports photography low angle image: Koenigsegg agera blue line headlight glow with body kit kicks in on an eastern US highway causing a huge motion blur smoke screen,color grading, edit Pho ultra wide angle, depth of field, DOF, tilt blur, shutter speed 1/1000, F/22, gamma, white balance, neon, light, dark, light mode, dark mode high contrast, multiverse, super resolution, megapixels, ProPhoto RGB, lonely, good, massive, spotlight, half lighting, backlight, incandescent, fiber optic, moody lighting, film lighting, studio lighting, hypmaximalist, elegant, surreal, super detail, photography</span><br>
 <p><strong>尺寸比例：</strong><span style="text-decoration: underline;"><strong> --ar 21:9(亦可9:21)</strong></span></p>
 <p><strong>渲染模型：</strong><span style="text-decoration: underline;"><strong> --v 5 </strong></span></p>
 <p><strong>最终成品：</strong>🥰🥰🥰🥰(点击图片可预览)</p>
@@ -354,7 +454,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/7/gallery/xhmz2_Sports_photography_low_angle_image_Koenigsegg_agera_blue__e10b84cd-2d34-420a-b1af-658482a14108.png" data-size="1024x1024"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/7/gallery/xhmz2_Sports_photography_low_angle_image_Koenigsegg_agera_blue__e10b84cd-2d34-420a-b1af-658482a14108-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
 <h4>三、<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">奔驰 AMG</span></h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-07_17-12-13.png" alt="" width="3357" height="790" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xs.png 300w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-sm.png 480w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-md.png 768w"></figure>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">体育摄影低角度图像，车型，运动状态</span><span style="color: #000000; text-decoration: underline;">“</span></span></span><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">全部咒语：</strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Sports photography low angle image: a black and red Mercedes amg gt with body kit and spoiler counter steering, drifting in circles on a concrete platform, the whole screaming and creating a huge motion blur smoke screen on the background, being chased by a fast car, high detail, 8k</span></p>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/7/Snipaste_2023-04-07_17-12-13.png" alt="" width="3357" height="790" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xs.png 384w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-sm.png 600w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-md.png 768w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-lg.png 1200w ,https://c-no1.github.io/media/posts/7/responsive/Snipaste_2023-04-07_17-12-13-xl.png 1600w"></figure>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">体育摄影低角度图像，车型，运动状态</span><span style="color: #000000; text-decoration: underline;">“</span></span></span><br><strong style="font-family: var(--editor-font-family); font-size: inherit;">全部咒语：</strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Sports photography low angle image: a black and red Mercedes amg gt with body kit and spoiler counter steering, drifting in circles on a concrete platform, the whole screaming and creating a huge motion blur smoke screen on the background, being chased by a fast car, high detail, 8k</span></p>
 <p><strong>尺寸比例：</strong><span style="text-decoration: underline;"><strong> --ar 21:9(亦可9:21)</strong></span></p>
 <p><strong>渲染模型：</strong><span style="text-decoration: underline;"><strong> --v 5 </strong></span></p>
 <p><strong>最终成品：</strong>🥰🥰🥰🥰(点击图片可预览)</p>
@@ -492,7 +592,7 @@
 <li>郁金香与猫</li>
 </ol>
 <h4>一、古典中国风人物</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-29_15-58-37.png" alt="" width="3340" height="611" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-29_15-58-37.png" alt="" width="3340" height="611" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-29_15-58-37-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">惊人的史诗般的中国古代主题，电影感，水墨风格</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>要突出画面元素“中国人物”，“中国古典风”，需要进行明确的指令解释：“惊人的史诗般的中国古代主题，水墨风格，幻想风格，武术风格”等词汇都可以体现中国经典的古典元素。</p>
 <p>再营造氛围，如何让画面增加更多的质感,可以添加：“高度详细，电影般的，惊人的，现实的照明和阴影，生动，充满活力”等关键词进行叙述。</p>
@@ -515,7 +615,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_By_Kuvshinov_llya_amazing_epic_chinese_ancient_theme_Chin_c48e2ab6-c36a-4f8a-9300-296b42c82b8f.png" data-size="1680x720"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_By_Kuvshinov_llya_amazing_epic_chinese_ancient_theme_Chin_c48e2ab6-c36a-4f8a-9300-296b42c82b8f-thumbnail.png" alt="" width="768" height="329"></a></figure>
 </div></div>
 <h4>二、<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">厚涂人物插画</span></h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-30_09-43-51.png" alt="" width="3366" height="708" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-30_09-43-51.png" alt="" width="3366" height="708" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-30_09-43-51-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #2dc26b;"><span style="color: #3598db; text-decoration: underline;">超现实的气氛</span><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，手绘和厚重的绘画风格，高品质的皮肤</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>达到厚涂手绘人物风格，需要强调绘画的风格，让AI理解到你要厚涂，以及你需要生成的是人物全景还是脸部特写镜头，并针对性加以修饰，强调手绘人物的皮肤质感。</p>
 <p>营造氛围，明亮的暖色调还是冷静的冷色调，镜头人物的头部转向多少度都可以对AI进行说明。</p>
@@ -536,8 +636,8 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Blue_haired_girl_turquoise_eyes_half_body_shot_glittering_2aee9f33-8a04-4148-880e-6321c6ef7d37.png" data-size="967x1023"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Blue_haired_girl_turquoise_eyes_half_body_shot_glittering_2aee9f33-8a04-4148-880e-6321c6ef7d37-thumbnail.png" alt="" width="768" height="812"></a></figure>
 </div></div>
 <h4>三、治愈系插画</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-04_12-06-35.png" alt="" width="3348" height="766" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-md.png 768w"></figure>
-<p>垫图素材：<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-27_14-25-28.png" alt="" width="900" height="1264" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-04_12-06-35.png" alt="" width="3348" height="766" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-04_12-06-35-xl.png 1600w"></figure>
+<p>垫图素材：<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-03-27_14-25-28.png" alt="" width="900" height="1264" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-03-27_14-25-28-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #3598db;">吉卜力工作室</span><span style="text-decoration: underline; color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #3598db; text-decoration: underline;">，房子和猫猫，矢量插图</span><span style="color: #000000; text-decoration: underline;">“</span></span></span></p>
 <p>确定画面主体风格：吉卜力工作室。然后就是画面主要元素，猫猫、房子等比较治愈系的对象。</p>
 <p>然后就是如何加强手绘风格的特征，可以加入：矢量插画、手绘等提示词。</p>
@@ -552,7 +652,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Healing_house_and_cat_cat_hand_drawn_illustration_vector__f07cef5a-2d72-4282-a741-05654e0779d4.png" data-size="1024x1024"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Healing_house_and_cat_cat_hand_drawn_illustration_vector__f07cef5a-2d72-4282-a741-05654e0779d4-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
 <h4>四、国风武术-白狐与女孩</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-10_09-49-56.png" alt="" width="3344" height="756" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-10_09-49-56.png" alt="" width="3344" height="756" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_09-49-56-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #3598db;">中国古代主题武术风格，低角度，电影般震撼</span><span style="color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #000000;">“</span></span></span></p>
 <p>此篇简单阐述画面风格，与画面内容就可，可以尝试不同的角度，低角度可以形成狐狸的巨大，造成压迫感。</p>
 <p><strong>全部咒语：</strong>Amazing epic ancient Chinese theme in Chinese martial arts style, a 18-year-old girl stands in front of a huge beautiful white fox, burning fire, martial arts style, panorama, low angle, impactful picture, dynamic expressive force, cinematic shock, realistic lighting, vivid, vibrant, 8k, rich detail, artistically realistic, uhd</p>
@@ -571,7 +671,7 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Amazing_epic_ancient_Chinese_theme_in_Chinese_martial_art_e54e2c7c-ce61-45e1-88ca-a5705d634a76.png" data-size="816x1456"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_Amazing_epic_ancient_Chinese_theme_in_Chinese_martial_art_e54e2c7c-ce61-45e1-88ca-a5705d634a76-thumbnail.png" alt="" width="768" height="1370"></a></figure>
 </div></div>
 <h4>四、郁金香与猫</h4>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-10_10-04-11.png" alt="" width="3368" height="718" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-xs.png 300w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-sm.png 480w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-md.png 768w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://c-no1.github.io/media/posts/5/Snipaste_2023-04-10_10-04-11.png" alt="" width="3368" height="718" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-xs.png 384w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-sm.png 600w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-md.png 768w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-lg.png 1200w ,https://c-no1.github.io/media/posts/5/responsive/Snipaste_2023-04-10_10-04-11-xl.png 1600w"></figure>
 <p>关键词：”<span style="text-decoration: underline; color: #3598db;">中国古代主题武术风格，低角度，电影般震撼</span><span style="color: #2dc26b;"><span style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: #000000;">“</span></span></span></p>
 <p>此篇简单阐述画面风格，与画面内容就可，可以尝试不同的角度，低角度可以形成狐狸的巨大，造成压迫感。</p>
 <p><strong>全部咒语：</strong>a painting showing two cat baby with Tulips flowers in the background, in the style of chiho aoshima, tranquil gardenscapes, light orange and emerald, miwa komatsu, wallpaper, carolyn blish, hand-painted details</p>
@@ -612,74 +712,6 @@
                     <p><img src="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" class="type:primaryImage" alt="" /></p>
                 <div>正如原研哉所说：“设计源于社会。设计的实质在于发现一个很多人都遇到的问题，然后试着去解决的过程。由于问题的根源在社会内部，除了能从设计师的视角看问题外，每个人都能理解解决问题的方案合过程。设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣”。</div>
 <div>品牌是一个名称、符号、形象乃至一整套与消费者沟通的全方位的系统性传播架构，其根本目的是在目标消费群体的认知中构建品牌信念，从而建立品牌知名度与消费者的忠诚度。</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>C4D 产品渲染</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/di-er-pian/"/>
-        <id>https://c-no1.github.io/di-er-pian/</id>
-        <media:content url="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" medium="image" />
-            <category term="#C4D作品"/>
-
-        <updated>2023-04-08T10:58:50+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" alt="" />
-                    <div>
-<div>
-<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
-</div>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" class="type:primaryImage" alt="" /></p>
-                <div>
-<div>
-<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
-</div>
-
-<h3>P1 指尖血氧仪渲染</h3>
-<div>
-<h5>使用工具：</h5>
-<div>
-<div>CINEMA 4D R25</div>
-<div>OCTANE R4</div>
-<div>After_Effects_2022</div>
-<div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000.png" data-size="2564x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000-thumbnail.png" alt="" width="768" height="431"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
-</div></div>
-</div>
-<div>
-<h3>P2 注射器渲染</h3>
-<div>
-<h5>使用工具:</h5>
-<div>
-<div>CINEMA 4D R25</div>
-<div>OCTANE R4</div>
-<div>After_Effects_2022</div>
-<div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="4">
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-2_00000_00000.png" data-size="1440x2560"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-2_00000_00000-thumbnail.png" alt="" width="768" height="1365"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-4_00000_00000_00000_00000_00000-2.png" data-size="1440x2560"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-4_00000_00000_00000_00000_00000-2-thumbnail.png" alt="" width="768" height="1365"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-1_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-1_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
