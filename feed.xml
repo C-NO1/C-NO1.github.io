@@ -3,12 +3,98 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-05-13T11:19:16+08:00</updated>
+    <updated>2023-05-13T11:24:41+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
     <id>https://c-no1.github.io</id>
 
+    <entry>
+        <title>C4D 呼吸器渲染</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/c4d-hu-xi-qi-xuan-ran/"/>
+        <id>https://c-no1.github.io/c4d-hu-xi-qi-xuan-ran/</id>
+
+        <updated>2023-05-13T11:24:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+<h3>P1 呼吸器渲染</h3>
+<div>
+<h5>使用工具：</h5>
+<div>
+<div>CINEMA 4D R25</div>
+<div>OCTANE R4</div>
+<div>After_Effects_2022</div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="2">
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/35/gallery/Zheng-Mian-Er_00000_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/35/gallery/Zheng-Mian-Er_00000_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/35/gallery/Zheng-Mian-Yi_00000.png" data-size="2560x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/35/gallery/Zheng-Mian-Yi_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>C4D 血氧仪渲染</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/c4d-xie-yang-yi-xuan-ran/"/>
+        <id>https://c-no1.github.io/c4d-xie-yang-yi-xuan-ran/</id>
+        <media:content url="https://c-no1.github.io/media/posts/34/P3-20000_Zhong_00000.png" medium="image" />
+
+        <updated>2023-05-13T11:24:36+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/34/P3-20000_Zhong_00000.png" alt="" />
+                    <div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/34/P3-20000_Zhong_00000.png" class="type:primaryImage" alt="" /></p>
+                <div>
+<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
+</div>
+
+<h3>P2 指尖血氧仪渲染</h3>
+<div>
+<h5>使用工具：</h5>
+<div>
+<div>CINEMA 4D R25</div>
+<div>OCTANE R4</div>
+<div>After_Effects_2022</div>
+<div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="1">
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/34/gallery/P3-20000_Zhong_00000.png" data-size="2564x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/34/gallery/P3-20000_Zhong_00000-thumbnail.png" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/34/gallery/P30000_Zui-Zhong_00000.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/34/gallery/P30000_Zui-Zhong_00000-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/34/gallery/P30000_Zui-Zhong-Bai-Di_00000.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/34/gallery/P30000_Zui-Zhong-Bai-Di_00000-thumbnail.png" alt="" width="768" height="512"></a></figure>
+</div></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>C4D 注射器渲染</title>
         <author>
@@ -18,7 +104,7 @@
         <id>https://c-no1.github.io/c4d-zhu-she-qi-xuan-ran/</id>
         <media:content url="https://c-no1.github.io/media/posts/33/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000.png" medium="image" />
 
-        <updated>2023-05-13T11:19:16+08:00</updated>
+        <updated>2023-05-13T11:24:41+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/33/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000.png" alt="" />
@@ -31,7 +117,7 @@
                     <p><img src="https://c-no1.github.io/media/posts/33/Yan-Se-Diao-Zheng-3_00000_00000_00000_00000.png" class="type:primaryImage" alt="" /></p>
                 <p><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></p>
 
-<h3>P2 注射器渲染</h3>
+<h3>P3 注射器渲染</h3>
 <div>
 <h5>使用工具:</h5>
 <div>
@@ -539,84 +625,6 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/5/gallery/xhmz2_a_painting_showing_two_cat_baby_with_Tulips_flowers_in_th_dfb151f5-b89e-4b6b-b7b7-66d73352e513.png" data-size="896x1344"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/5/gallery/xhmz2_a_painting_showing_two_cat_baby_with_Tulips_flowers_in_th_dfb151f5-b89e-4b6b-b7b7-66d73352e513-thumbnail.png" alt="" width="768" height="1152"></a></figure>
 </div></div>
 <p> </p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello Yokr</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/di-san-pian/"/>
-        <id>https://c-no1.github.io/di-san-pian/</id>
-        <media:content url="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" medium="image" />
-
-        <updated>2023-05-11T09:48:34+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" alt="" />
-                    <div>
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://c-no1.github.io/media/posts/3/original-97cbf4744b475a1eee783994a392e4a2.png" class="type:primaryImage" alt="" /></p>
-                <div>正如原研哉所说：“设计源于社会。设计的实质在于发现一个很多人都遇到的问题，然后试着去解决的过程。由于问题的根源在社会内部，除了能从设计师的视角看问题外，每个人都能理解解决问题的方案合过程。设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣”。</div>
-<div>品牌是一个名称、符号、形象乃至一整套与消费者沟通的全方位的系统性传播架构，其根本目的是在目标消费群体的认知中构建品牌信念，从而建立品牌知名度与消费者的忠诚度。</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>C4D 血氧仪</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/di-er-pian/"/>
-        <id>https://c-no1.github.io/di-er-pian/</id>
-        <media:content url="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" medium="image" />
-            <category term="#C4D作品"/>
-
-        <updated>2023-05-13T11:02:00+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" alt="" />
-                    <div>
-<div>
-<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
-</div>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://c-no1.github.io/media/posts/2/P3-20000_Zhong_00000-2.png" class="type:primaryImage" alt="" /></p>
-                <div>
-<div>
-<div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
-</div>
-
-<h3>指尖血氧仪渲染</h3>
-<div>
-<h5>使用工具：</h5>
-<div>
-<div>CINEMA 4D R25</div>
-<div>OCTANE R4</div>
-<div>After_Effects_2022</div>
-<div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000.png" data-size="2564x1440"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P3-20000_Zhong_00000-thumbnail.png" alt="" width="768" height="431"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2.png" data-size="3000x2000"><img decoding="async" loading="lazy" src="https://c-no1.github.io/media/posts/2/gallery/P30000_Zui-Zhong-Bai-Di_00000-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
-</div></div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
 </div>
 </div>
             ]]>
