@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-06-27T21:58:41+08:00</updated>
+    <updated>2023-06-27T22:04:50+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://c-no1.github.io/c4d/"/>
         <id>https://c-no1.github.io/c4d/</id>
         <media:content url="https://c-no1.github.io/media/posts/39/Zhi-Zuo_00000_00000.png" medium="image" />
+            <category term="#C4D作品"/>
 
-        <updated>2023-06-27T21:58:41+08:00</updated>
+        <updated>2023-06-27T22:04:42+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/39/Zhi-Zuo_00000_00000.png" alt="" />
@@ -61,8 +62,9 @@
         <link href="https://c-no1.github.io/c4d-x-boxxuan-ran/"/>
         <id>https://c-no1.github.io/c4d-x-boxxuan-ran/</id>
         <media:content url="https://c-no1.github.io/media/posts/38/An-Niu_00000.png" medium="image" />
+            <category term="#C4D作品"/>
 
-        <updated>2023-06-27T21:58:01+08:00</updated>
+        <updated>2023-06-27T22:04:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/38/An-Niu_00000.png" alt="" />
