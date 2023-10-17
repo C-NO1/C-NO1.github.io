@@ -3,7 +3,7 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-10-16T21:26:14+08:00</updated>
+    <updated>2023-10-17T23:09:49+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://c-no1.github.io/media/posts/43/Yin-Xiang-8-2.png" medium="image" />
             <category term="#C4D作品"/>
 
-        <updated>2023-10-16T21:26:14+08:00</updated>
+        <updated>2023-10-17T23:09:49+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://c-no1.github.io/media/posts/43/Yin-Xiang-8-2.png" alt="" />
@@ -39,8 +39,10 @@
 <h3>音响风格图</h3>
 <div>
 <h5>使用工具：</h5>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/43//Yin-Xiang.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-xs.png 300w ,https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-sm.png 480w ,https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/43//Yin-Xiang-8.png" alt="" width="5760" height="3240" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-8-xs.png 300w ,https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-8-sm.png 480w ,https://c-no1.github.io/media/posts/43//responsive/Yin-Xiang-8-md.png 768w"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="2">
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/43/gallery/Yin-Xiang.png" data-size="1920x1080"><img loading="lazy" src="https://c-no1.github.io/media/posts/43/gallery/Yin-Xiang-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/43/gallery/Yin-Xiang-8.png" data-size="5760x3240"><img loading="lazy" src="https://c-no1.github.io/media/posts/43/gallery/Yin-Xiang-8-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div></div>
 </div>
             ]]>
         </content>
