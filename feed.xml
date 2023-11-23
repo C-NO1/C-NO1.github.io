@@ -3,12 +3,178 @@
     <title>有氪｜Yokr</title>
     <link href="https://c-no1.github.io/feed.xml" rel="self" />
     <link href="https://c-no1.github.io" />
-    <updated>2023-11-21T22:23:25+08:00</updated>
+    <updated>2023-11-23T21:58:30+08:00</updated>
     <author>
         <name>有氪｜Yokr</name>
     </author>
     <id>https://c-no1.github.io</id>
 
+    <entry>
+        <title>AIGC中秋节海报案例分享</title>
+        <author>
+            <name>有氪｜Yokr</name>
+        </author>
+        <link href="https://c-no1.github.io/aigczhong-qiu-jie-hai-bao-an-li-fen-xiang/"/>
+        <id>https://c-no1.github.io/aigczhong-qiu-jie-hai-bao-an-li-fen-xiang/</id>
+        <media:content url="https://c-no1.github.io/media/posts/48/1280X1280-4.PNG" medium="image" />
+
+        <updated>2023-11-23T21:57:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/48/1280X1280-4.PNG" alt="" />
+                    <div class="ace-line ace-line old-record-id-AJ6TdCklLoE7FqxxsVdcrUgVn8d">
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/48/1280X1280-4.PNG" class="type:primaryImage" alt="" /></p>
+                <div class="ace-line ace-line old-record-id-AJ6TdCklLoE7FqxxsVdcrUgVn8d"><strong>前言：</strong></div>
+<div class="ace-line ace-line old-record-id-DCjYdnRoZoSrUbx4ZAtceJBgnHc">
+<p class="msg msg--highlight  msg--success dropcap">中秋节是中国传统的重要节日之一，人们在这一天欢聚一堂，共赏明月，品尝美味的月饼，传达亲情和友情。也是各个企业和商家们的大日子，不管是出于品牌宣传和知名度提升、客户关系维护，还是促销和销售的目的，一套好的视觉设计方案可以在中秋节这个特殊时刻帮助企业和商家实现多重目标，进一步提升业务和品牌的成功。 本篇文章会用两个案例教程，详细介绍了我在工作中使用 AI 辅助设计的工作流，教会大家如何利用 AI 辅助来完成中秋节视觉设计。</p>
+</div>
+<div> </div>
+<h5 class="heading-2 ace-line old-record-id-HZvldtmwjotKIAxRdj6cmubmnGb"><strong>案例一：</strong><strong>中秋节</strong><strong>弹窗设计</strong></h5>
+<p><strong>1.项目背景</strong></p>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">中秋节来临，公司想做一套网页的祝福弹窗，用于与用户建立情感联系、传播节日氛围，在中秋节假期期间上线展示。
+<h6 data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false"><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/1280X1280.PNG" alt="" width="1273" height="958" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/1280X1280-xs.PNG 300w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-sm.PNG 480w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-md.PNG 768w"></figure></h6>
+<br>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false"> </div>
+</div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false"><strong>2.确认视觉方案</strong></div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-XTXudDTNToAuIOxmDzDcTvrdn3d">在不确定设计方案的情况下，可以利用 AI 大语言模型来帮助我们更好的理解需求，这里我得到了中秋节的部分设计元素，以及具体需求背景下，给出的一些方案建议。 方案建议这部分，回答的有些不太符合需求，但是根据“兔子机器人”产生了一些灵感，业务方是做硬件类的科技公司，有航天类型的业务方向，如果主视觉是坐着飞船的兔子，效果应该会不错。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/1280X1280-1.PNG" alt="" width="1280" height="863" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/1280X1280-1-xs.PNG 300w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-1-sm.PNG 480w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-1-md.PNG 768w"></figure></div>
+<div> </div>
+<div><strong>3.AI生成视觉素材</strong></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-Qe0rdtOudo9SEBxMAydcMymYn2c">设计风格还是做插画方向，所以直接使用“niji5”模型，先试用默认风格，如果不能达到我们想要的效果再更换风格进行调试。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/1280X1280-2.PNG" alt="" width="1280" height="942" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/1280X1280-2-xs.PNG 300w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-2-sm.PNG 480w ,https://c-no1.github.io/media/posts/48/responsive/1280X1280-2-md.PNG 768w"></figure></div>
+<div> </div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-VsNDdheFlo1UThxPdM9c93fjnOd">“抽卡”的过程很漫长，绝对不止展示出来的这些，而且需要不断的修改关键词、模型、风格参数等；</div>
+<div class="ace-line ace-line old-record-id-D9Q6d6z8xo9aYGx2OsScDF6ZnQc">这里有个小 Tips，当有一组生成的图片跟我们需要的素材很接近时，我们可以放大这张图片，然后垫图无限套娃，以节约我们“抽卡”的时间，亲测好用，大家可以试试~</div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<ul class="list-bullet1">
+<li class="ace-line ace-line old-record-id-PYANdjgxXocHPqxo6Uxcpe89nIe" data-list="bullet">
+<div>主题内容：Bunny is flying through space</div>
+</li>
+<li class="ace-line ace-line old-record-id-X6DodvPeKo1RYsxLGk1cMckznOf" data-list="bullet">
+<div>环境描述：in a spaceship toward the moon</div>
+</li>
+<li class="ace-line ace-line old-record-id-MtB7dUAoWo2dDxxD6RacHW5inRe" data-list="bullet">
+<div>艺术风格：in the style of chinapunk, transportcore, robotics kids, precision painting, contest winner, charming characters, vibrant illustrationsBunny is flying through space in a spaceship toward the moon, in the style of chinapunk, transportcore, robotics kids, precision painting, contest winner, charming characters, vibrant illustrations</div>
+</li>
+<li class="ace-line ace-line old-record-id-X0Pbd79bsoAA9yxMGbEc93VinKg" data-list="bullet">
+<div>兔子乘坐宇宙飞船在太空中飞行，飞向月球，采用中国朋克、运输核心、机器人儿童的风格，精密绘画，大赛获奖作品，迷人的角色，生动的插图</div>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/ed8707ff-56f2-4359-a16e-358844c672fd.png" alt="" width="1280" height="582" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/ed8707ff-56f2-4359-a16e-358844c672fd-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/ed8707ff-56f2-4359-a16e-358844c672fd-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/ed8707ff-56f2-4359-a16e-358844c672fd-md.png 768w"></figure>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-F3tpdA7PMoqjQkxuLg5cURAJn9d">选择效果还不错的的一个继续跑图，如有必要需要我们多刷几次，然后垫图套娃，每次生成的图片细节还是不太一样，如果“抽卡”的时间过长，失去了耐心，那也不用纠结，时间太长就失去了我们使用 AI 的意义，直接选出自己最心仪的，后续到 ps 里进行合成就好。</div>
+<div> </div>
+<div class="ace-line ace-line old-record-id-F3tpdA7PMoqjQkxuLg5cURAJn9d">选中我们心仪的素材之后，首先需要检查一下，是否有能直接在 Midjourney 里解决掉的瑕疵，这里发现主视觉素材不完整，我们直接使用“Zoom out”功能对图片进行扩展，下面有几个选项，“Zoom Out 1.5”的意思就是图片放大 1.5 倍进行扩展，其他选项这里就不做赘述了，聪明的你操作一遍就明白了~</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/cc674014-ba68-4914-b031-aa4c47be290f.png" alt="" width="1280" height="1151" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/cc674014-ba68-4914-b031-aa4c47be290f-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/cc674014-ba68-4914-b031-aa4c47be290f-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/cc674014-ba68-4914-b031-aa4c47be290f-md.png 768w"></figure></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-I5dbdJdBZoJj5Lxt9Pec9KOKnAe">扩展后的素材更加完整了，但是还有很多瑕疵，直接在 MJ 里不太好解决，Midjourney 新出的更改部分图片内容的功能亲测也不是很好用，这里又要教一个小 Tips 了：根据确定的图片，生成更多变体；这有什么用呢？往后看就知道了~</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/c24e979b-5a7f-49bf-8e8a-623566f54385.png" alt="" width="1280" height="1156" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/c24e979b-5a7f-49bf-8e8a-623566f54385-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/c24e979b-5a7f-49bf-8e8a-623566f54385-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/c24e979b-5a7f-49bf-8e8a-623566f54385-md.png 768w"></figure></div>
+<div> </div>
+<div>4.手动完善素材</div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-BjMCdlSBzobRVBxiyKTcvVA3n2c">现在这个步骤就是要完善主视觉素材，不要听到手动两个字就觉得麻烦，打工人肯定不会为难自己，这肯定比直接做元素图要快得多。 先用 ps 打开图片，观察有哪些需要完善的点：</div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<ul class="list-bullet1">
+<li class="ace-line ace-line old-record-id-TdnydFwxwowFy1x79dzcnZ96nAg" data-list="bullet">
+<div>兔子的右脚不显示，有些穿帮；</div>
+</li>
+<li class="ace-line ace-line old-record-id-Gix4dMCAUoxE35xcTs5ceegqnqj" data-list="bullet">
+<div>飞船头部装饰不好看；</div>
+</li>
+<li class="ace-line ace-line old-record-id-JJZFdHmm8oK1ptxwH7fc3UqknXe" data-list="bullet">
+<div>飞船头灯有点奇怪，也是有点穿帮；</div>
+</li>
+<li class="ace-line ace-line old-record-id-KcnndQRrXoB1ooxaAHEc0EP8n6e" data-list="bullet">
+<div>飞船侧面既不是气流也不是云朵的地方有些模糊不清晰；</div>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/1a5750e9-d3f7-4e98-8fea-843c1e580d5d.png" alt="" width="1280" height="844" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/1a5750e9-d3f7-4e98-8fea-843c1e580d5d-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/1a5750e9-d3f7-4e98-8fea-843c1e580d5d-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/1a5750e9-d3f7-4e98-8fea-843c1e580d5d-md.png 768w"></figure>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-RJrzdManio0RSpx89HDcvVNun4e">解决方法如下，现在知道我前面生成变体的作用了吧~</div>
+<div> </div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/75ebd28f-2c85-4901-8f87-2c7fead321a6.png" alt="" width="888" height="1280" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/75ebd28f-2c85-4901-8f87-2c7fead321a6-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/75ebd28f-2c85-4901-8f87-2c7fead321a6-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/75ebd28f-2c85-4901-8f87-2c7fead321a6-md.png 768w"></figure></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-DMHNdpfWqo2QFKxOMgGcEssGnEe">解决了原素材的完善部分，发现还是少了点中秋的元素，看到兔子两手空空，突然又灵机一动，如果兔子手拿月饼，一只吃着月饼坐飞船奔向太空的兔子、一只兔子从月球返回地球向小伙伴分享手中的月饼... ... 感觉中秋的氛围浓厚起来了~所以月饼素材我们还是用 Midjourney 辅助我们生成。</div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<ul class="list-bullet1">
+<li class="ace-line ace-line old-record-id-CJRbddmOxohoWPxQt6cclMsSn0g" data-list="bullet">
+<div><strong>主题内容：</strong>a mooncake, yellow biscuit, rounded</div>
+</li>
+<li class="ace-line ace-line old-record-id-QxLZd8inToDENQxC5h9cUlqinZg" data-list="bullet">
+<div><strong>艺术风格：</strong>in the style of animated gifs</div>
+</li>
+<li class="ace-line ace-line old-record-id-QnqydVYbJo1ad8xz0TbcM50Wnke" data-list="bullet">
+<div><strong>图像设定：</strong>high detailed a mooncake, yellow biscuit, in the style of animated gifs, rounded, high detailed</div>
+</li>
+<li class="ace-line ace-line old-record-id-X8qfdmM9Co8bpdxqgmdcAaABnIO" data-list="bullet">
+<div><strong>中文释义：</strong>月饼，黄色饼干，GIF 动画风格，圆润，细节丰富</div>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/8ec2d956-dfcc-46d8-a503-c16ff5261d40.png" alt="" width="1280" height="510" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/8ec2d956-dfcc-46d8-a503-c16ff5261d40-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/8ec2d956-dfcc-46d8-a503-c16ff5261d40-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/8ec2d956-dfcc-46d8-a503-c16ff5261d40-md.png 768w"></figure>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-DMgbdH7lQohnd4xe6PLc1ZHyngg">挑选合适的月饼素材，抠图使用，自由变换工具改变月饼的角度，再结合蒙版功能合成素材。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/8d143689-2cc1-4372-8f68-18c209b52e2d.png" alt="" width="1280" height="530" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/8d143689-2cc1-4372-8f68-18c209b52e2d-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/8d143689-2cc1-4372-8f68-18c209b52e2d-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/8d143689-2cc1-4372-8f68-18c209b52e2d-md.png 768w"></figure></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-Anfgdi9Bho178VxRUD0c1kLGnSh">将合成后的素材，整体抠图后，用“Upscayl”软件高清放大图片，如果有盆友会用 Stable Diffusion，也可以利用它来放大图片。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/cadc7f83-a5a5-4df8-98ba-62c68f4352bf.png" alt="" width="1280" height="753" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/cadc7f83-a5a5-4df8-98ba-62c68f4352bf-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/cadc7f83-a5a5-4df8-98ba-62c68f4352bf-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/cadc7f83-a5a5-4df8-98ba-62c68f4352bf-md.png 768w"></figure></div>
+<div> </div>
+<div><strong>5.排版出图</strong></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-UDA2dkCvCoG37uxrqfgc5C81n3d">需求是纯展示类型的弹窗设计，需要吸引用户的关注、增强品牌标识，所以我选择使用异形弹窗设计，能有效提高品牌识别度，并为品牌注入创新和个性，为用户提供更有趣的体验。 最后直接使用 figma 排版，简单调色，这里推荐我常用做路径文字的插件：To path。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/892de878-ef3f-462e-8291-f9dd3247836f.png" alt="" width="1280" height="1177" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/892de878-ef3f-462e-8291-f9dd3247836f-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/892de878-ef3f-462e-8291-f9dd3247836f-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/892de878-ef3f-462e-8291-f9dd3247836f-md.png 768w"></figure></div>
+<div>
+<div data-page-id="QxARdvCwMoQz3Gx4Npzco8xknLc" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-CPFSdwdhkozxDqxUs4rc47vXnXc">根据得到的主视觉，还可以同时延展出其他物料：</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/48/53e7facf-daba-4d46-939e-069ab438da7c.png" alt="" width="1280" height="1017" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/48/responsive/53e7facf-daba-4d46-939e-069ab438da7c-xs.png 300w ,https://c-no1.github.io/media/posts/48/responsive/53e7facf-daba-4d46-939e-069ab438da7c-sm.png 480w ,https://c-no1.github.io/media/posts/48/responsive/53e7facf-daba-4d46-939e-069ab438da7c-md.png 768w"></figure></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>C4D 写实材质机箱</title>
         <author>
@@ -16,10 +182,12 @@
         </author>
         <link href="https://c-no1.github.io/c4d-xie-shi-cai-zhi-ji-xiang/"/>
         <id>https://c-no1.github.io/c4d-xie-shi-cai-zhi-ji-xiang/</id>
+        <media:content url="https://c-no1.github.io/media/posts/47/An-Niu-Diao-Se.png" medium="image" />
 
-        <updated>2023-11-21T22:23:25+08:00</updated>
+        <updated>2023-11-23T21:58:02+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/47/An-Niu-Diao-Se.png" alt="" />
                     <div>
 <div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
 </div>
@@ -28,6 +196,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/47/An-Niu-Diao-Se.png" class="type:primaryImage" alt="" /></p>
                 <div>
 <div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
 </div>
@@ -59,10 +228,12 @@
         </author>
         <link href="https://c-no1.github.io/c4d-kou-hong-te-xie/"/>
         <id>https://c-no1.github.io/c4d-kou-hong-te-xie/</id>
+        <media:content url="https://c-no1.github.io/media/posts/46/010001_00000.png" medium="image" />
 
-        <updated>2023-11-21T22:20:49+08:00</updated>
+        <updated>2023-11-23T21:58:30+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://c-no1.github.io/media/posts/46/010001_00000.png" alt="" />
                     <div>
 <div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
 </div>
@@ -71,6 +242,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://c-no1.github.io/media/posts/46/010001_00000.png" class="type:primaryImage" alt="" /></p>
                 <div>
 <div><span style="color: #000000;">"设计就是感染，因为其过程所创造的启发，是基于人类在普遍价值和精神上的共鸣"</span></div>
 </div>
@@ -428,221 +600,6 @@
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/37/gallery/P60000_00000.png" data-size="3840x2160"><img loading="lazy" src="https://c-no1.github.io/media/posts/37/gallery/P60000_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://c-no1.github.io/media/posts/37/gallery/Ji-Chu_00000.png" data-size="3840x2160"><img loading="lazy" src="https://c-no1.github.io/media/posts/37/gallery/Ji-Chu_00000-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>30+ 高质量 B 端图标资源</title>
-        <author>
-            <name>有氪｜Yokr</name>
-        </author>
-        <link href="https://c-no1.github.io/fen-xiang-30-gao-zhi-liang-b-duan-tu-biao-zi-yuan/"/>
-        <id>https://c-no1.github.io/fen-xiang-30-gao-zhi-liang-b-duan-tu-biao-zi-yuan/</id>
-        <media:content url="https://c-no1.github.io/media/posts/36/Feng-Mian_Hua-Ban-1_Hua-Ban-1_Hua-Ban-1_Hua-Ban-1.png" medium="image" />
-            <category term="#设计分享"/>
-
-        <updated>2023-05-16T16:08:07+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://c-no1.github.io/media/posts/36/Feng-Mian_Hua-Ban-1_Hua-Ban-1_Hua-Ban-1_Hua-Ban-1.png" class="type:primaryImage" alt="" /></p>
-                
-<h5><strong>前言</strong></h5>
-<p>首先，我们将图标资源分为三类：工作台图标，导航菜单图标和系统图标。</p>
-<p>工作台图标主要在工作台的位置进行呈现，一般是设计风格比较复杂、质感比较突出的图标类型。</p>
-<p>系统图标可以理解为系统中的基础图标，它们主要以单色的形式存在。</p>
-<p>导航菜单图标主要出现在系统的导航菜单，从设计风格上来看，导航菜单通常为双色图标或面形图标。</p>
-<p>我们按照工作台图标、导航菜单图标、系统图标的顺序推荐相应的图标资源。</p>
-<p>首先声明，我不确定这些图标资源是否可免费商用。如果要商用，请再咨询版权问题。</p>
-<p>当然，推荐这些资源的目的其实是我们作为设计师，我相信大家可以通过上述图标风格绘制出自己的图标。</p>
-<h5><strong>工作台图标</strong></h5>
-<h6><strong>OA 办公</strong></h6>
-<p>这套图标非常干净、整洁，由双色图标组成。虽然图标数量不多，但每个图标的质量都有保证，而且运用范围非常广泛。许多同学过去都会使用这套图标来绘制自己的工作台页面，因此使用难度较低。值得大家收藏一波！</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=25119" target="_blank" rel="noopener noreferrer"></a><a href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=25119" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=25119</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/1.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/1-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/1-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/1-md.png 768w"></figure>
-<h6><strong>汽车行业常用商务图标</strong></h6>
-<p>最近我们接到了越来越多的汽车行业相关需求，因此发现B端汽车产品也非常多。这套图标主要针对汽车相关的所有信息内容。整体图标以双色为基础，使用起来整体感受也非常好。这是汽车行业中比较不错的开源优质图标。</p>
-<p><a target="_blank" rel="noopener noreferrer"></a><a href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=41768" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=41768</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/2.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/2-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/2-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/2-md.png 768w"></figure>
-<h6><strong>OA 工作台</strong></h6>
-<p>这套图标一共有近90个，都是常见的OA产品功能模块，例如员工福利、人事管理、员工转正、项目管理等等。每一个图标的绘制都非常精美，如果你的产品与OA相关，不妨试试这套图标。</p>
-<p><a href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=39755" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=39755</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/3.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/3-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/3-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/3-md.png 768w"></figure>
-<h6><strong>医疗健康图标</strong></h6>
-<p>医疗健康图标是许多设计师非常头疼的事情，因为其本身含义就比较复杂，表达起来就更加困难。而这套图标本身有64个，每一个图标所表达的含义都非常明确，几乎适用于大多数的医疗系统。该图标集可以直接下载，即插即用，非常适合从事医疗项目的同学。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=38530" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=38530</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/4.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/4-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/4-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/4-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h6><strong>方块管理类图标</strong></h6>
-</section>
-<p>这套图标的绘制非常抽象，利用各种结合图形来表达其功能的含义。每一个图标都画得十分精美，而且图标数量也非常丰富。如果你有需要，可以以这套图形为基础进行相应的调整。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=39236" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=39236</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/5.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/5-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/5-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/5-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h6><strong>广告投放管理平台</strong></h6>
-</section>
-<p>这里提供了 Iconpark 的插画，但我认为这套图标库可以用在我们工作台的首页上。因为它是由大厂出品，图标质量没有任何问题，并且质感非常棒。将其应用于页面展示肯定非常出色。</p>
-<p><a href="https://iconpark.oceanengine.com/illustrations/6" target="_blank" rel="noopener noreferrer">https://iconpark.oceanengine.com/illustrations/6</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/6.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/6-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/6-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/6-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h6><strong>B端产品视觉插画</strong></h6>
-</section>
-<p>这是一套非常小巧的插画图，其质量非常高。作者的真诚也让人感到感动。在评论区下方，作者提供了对应不同格式的文件资源，方便我们进行学习和使用，这值得点赞！！</p>
-<p><a></a><a href="https://www.iconfont.cn/illustrations_3d/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43461" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/illustrations_3d/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43461</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/7.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/7-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/7-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/7-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h6><strong>微园区</strong></h6>
-</section>
-<p>这套图标相对之前的版本显得更加简洁，但直接使用图标仍存在一些问题，比如元素角度过大、图形质量不高等缺陷。不过我们可以将其作为素材，稍加调整后使用。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43076" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43076</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/8.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/8-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/8-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/8-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>导航菜单</strong></h5>
-</section>
-<p>导航菜单图标，顾名思义就是出现在导航菜单的部分，虽然导航菜单的设计，通常会存在线性图标和面性图标两种，但是我们这里为了图形的准确，主要是以线性双色图标为主。</p>
-<p><strong style="font-family: var(--font-base); font-size: 1em; letter-spacing: var(--letter-spacing);">Iconpark</strong></p>
-<p>https://iconpark.oceanengine.com/official</p>
-<p>Iconpark 确实是字节跳动提供的一套非常优质的图标库，其中包含几千个图标。你可以根据需要调整它们的风格。如果你对导航菜单设计感到迷茫，可以考虑使用 Iconpark 自定义风格，并将其应用到导航菜单中。</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/10.gif" alt="" width="1079" height="607"></figure>
-<section data-mpa-template="t">
-<h6><strong>医疗</strong></h6>
-</section>
-<p>这套医疗图标，除了配色稍显，稚嫩之外，其他挑不出什么太大的毛病，我一直都认为医疗的图标是非常难绘制的，因为它会包含很多特殊的器官，特殊的业务，而这些内容都是我们通常看不到的，而这套图标它整体的表达非常专业，也适合我们直接去做使用</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=42142" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=42142</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/9.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/9-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/9-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/9-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>医疗健康</strong></h5>
-</section>
-<p>和上方的医疗图标类似，只是在配色上这个图标更为讨喜一些。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43874" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=43874</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/10.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/10-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/10-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/10-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>商务办公系统</strong></h5>
-</section>
-<p>一套比较简单、质量还算不错 的商务办公图标库。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=41241" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=41241</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/11.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/11-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/11-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/11-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>租赁业务</strong></h5>
-</section>
-<p>这套图标本身是以租赁业务为主的图标设计，但是你会发现图标当中涉及了很多通用的元素，那我们可以利用这些图标内容进行相应的调整，进而就会产出更多更优质的图标内容。</p>
-<p>并且这个图标本身质量非常高，也便于我们去进行学习和模仿。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=40195" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=40195</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/12.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/12-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/12-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/12-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>地下管道系统图标</strong></h5>
-</section>
-<p>这套图标主要是比较新奇，之前没有接触过地下管道究竟是做什么的，能通过这套图标，我们大概能了解它的一个具体的内容以及相应的画法。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=36172" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=36172</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/13.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/13-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/13-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/13-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>千讯协同运输系统</strong></h5>
-</section>
-<p>这套导航菜单的图标延续了我们之前在图标设计文章中提到的原子设计。图标被分为子图标和主图标两类，这种方法优化了大量数据的呈现方式。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=34347" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=34347</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/14.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/14-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/14-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/14-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>企业应用公开库</strong></h5>
-</section>
-<p>通常我们的图标库以扁平化为主。但是这套图标库保留了更多的产品细节，并且每个图标的风格都保持一致。由于绘制的难度非常高，图标库的质量也非常优秀。因此，我在这里推荐大家查阅和使用这个图标库。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=17668" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=17668</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/15.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/15-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/15-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/15-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>易行icon库</strong></h5>
-</section>
-<p>一套简单的图标库，不过其主要遵循了 原子图标 的设计方法，因此在这里进行推荐。</p>
-<p><a href="https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=42186" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=42186</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/16.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/16-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/16-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/16-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>政务信息</strong></h5>
-</section>
-<p>绘制政府相关和医学相关的图标都非常困难。但是，这个图标包为我们提供了一些绘制的思路。尽管图标的配色不是特别优雅，我们可以随意更改从iconfont下载下来进行更改。</p>
-<p><a href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=39417" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=39417</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/17.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/17-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/17-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/17-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>政务</strong></h5>
-</section>
-<p>这套政务系统图标质量非常不错，图标本身也非常全面，只不过不能进行商用，大家只能“欣赏欣赏”</p>
-<p><a href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=42749" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/collections/detailspm=a313x.7781069.1998910419.d9df05512&amp;cid=42749</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/18.png" alt="" width="1080" height="608" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/18-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/18-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/18-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>系统图标</strong></h5>
-</section>
-<section data-mpa-template="t">
-<h6><strong>REMIXICON</strong></h6>
-</section>
-<p><a href="https://remixicon.com/" target="_blank" rel="noopener noreferrer">https://remixicon.com/</a></p>
-<p>Remix Icon是 <strong>国人设计师章萧醇开源的一款图标库</strong>，目前这个图标库里共有<strong>2271个</strong>图标。图标涵盖建筑、商业、通讯、设计、文档编辑、财务、健康等十多种图标类型，可以直接下载SVG或PNG版本或者复制SVG代码</p>
-<p>从图标质量上来看，<strong>Remix Icon的质量算是我见过开源图标库中最高</strong>，拥有线性和面性两种不同版本，两千多个的图标里，一定有你需要的～</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/20.png" alt="" width="1652" height="1098" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/20-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/20-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/20-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>Fearher</strong></h5>
-</section>
-<p><a href="https://feathericons.com/" target="_blank" rel="noopener noreferrer">https://feathericons.com/</a></p>
-<p>https://www.figma.com/file/dyJRSFTIajik4cdkcXN8yA3K/Feather-Component-Librar</p>
-<p>Feathericons是一个漂亮和简单的开源图标库，每个图标均以24x24网格设计，它包含282个SVG图标，你可以使用右侧的设置去调整图标的粗细以及图标大小，你还可以通过单击网站右上角的月亮图标来切换明暗模式。</p>
-<p>如果你是Figma的用户，作者也提供了Figma插件，在使用上的体验会更加的友好</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/21.png" alt="" width="1654" height="1101" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/21-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/21-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/21-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>EVA Icons</strong></h5>
-</section>
-<p><a href="https://akveo.github.io/eva-icons/#/" target="_blank" rel="noopener noreferrer">https://akveo.github.io/eva-icons/#/</a></p>
-<p>Eva Icons是Eva Design System中的图标部分，一共有480个开源图标，分别以SVG和PNG格式展示。在图标类型上，你可以选线性和面形两种风格图标，很有趣的一点，你可以将鼠标Hover图标上去，你可以自己设定图标的动画效果，如：放大、晃动、翻转，这大概就是设计师的情怀吧～</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/22.png" alt="" width="1655" height="1114" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/22-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/22-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/22-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h4><strong>heroicons</strong></h4>
-</section>
-<p>https://heroicons.dev/</p>
-<p>Heroicons是由Tailwind CSS的创建者构建的另一个很棒的开源图标库。它具有超过165个具有填充和轮廓样式的独立图标，但每个元素也提供深色和白色版本。图标的外观非常优质且制作精良</p>
-<p>这些图标的入门非常简单，他们还提供了Figma中的库。如果你想包含所有的图标，你可以从公共资源库中下载所有的SVG文件</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/23.png" alt="" width="1652" height="1122" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/23-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/23-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/23-md.png 768w"></figure>
-<section data-mpa-template="t">
-<h5><strong>Ikonate</strong></h5>
-</section>
-<p><a href="https://ikonate.com/" target="_blank" rel="noopener noreferrer">https://ikonate.com/</a></p>
-<p>最后但并非最不重要的是，Ikonate是另一个令人敬畏的开源图标库，它拥有约100个基于平面设计的高级图标。它是根据非常宽松的MIT许可证慷慨授权的</p>
-<p>导出之前，你可以轻松配置图标的大小，边框宽度，边框和边角以及颜色</p>
-<figure class="post__image"><img loading="lazy"  src="https://c-no1.github.io/media/posts/36/24.png" alt="" width="1645" height="1129" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://c-no1.github.io/media/posts/36/responsive/24-xs.png 300w ,https://c-no1.github.io/media/posts/36/responsive/24-sm.png 480w ,https://c-no1.github.io/media/posts/36/responsive/24-md.png 768w"></figure>
-<h5><span style="color: #3598db;">资源总结 🔗</span>：</h5>
-<p><strong>OA 办公🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=25119</p>
-<p><strong>汽车行业常用商务图标🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=41768</p>
-<p><strong>OA 工作台🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=39755</p>
-<p><strong>医疗健康图🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=38530</p>
-<p><strong>方块管理类图标🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=39236</p>
-<p><strong>广告投放管理平台🚩：</strong></p>
-<p>https://iconpark.oceanengine.com/illustrations/6</p>
-<p><strong>B端产品视觉插画🚩：</strong></p>
-<p>https://www.iconfont.cn/illustrations_3d/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=43461</p>
-<p><strong>微园区🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=43076</p>
-<p><strong>导航菜单🚩：</strong></p>
-<p>https://iconpark.oceanengine.com/official</p>
-<p><strong>医疗🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=42142</p>
-<p><strong>医疗健康🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=43874</p>
-<p><strong>商务办公系统🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=41241</p>
-<p><strong>租赁业务🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=40195</p>
-<p><strong>地下管道系统图标🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=36172</p>
-<p><strong>千讯协同运输系统🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=34347</p>
-<p><strong>企业应用公开库🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=17668</p>
-<p><strong>易行icon库🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=42186</p>
-<p><strong>政务信息🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=39417</p>
-<p><strong>政务🚩：</strong></p>
-<p>https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=42749</p>
-<p> </p>
             ]]>
         </content>
     </entry>
